@@ -18,9 +18,9 @@ tags:
 - Files
 - Email
 - Contact
-created: "2018-03-13"
-modified: "2018-03-13"
-url: https://raw.githubusercontent.com/streamdata-gallery/worksheets/master/_listings/microsoft-graph/apis.yaml
+created: "2018-03-22"
+modified: "2018-03-22"
+url: https://raw.githubusercontent.com/streamdata-gallery-topics/worksheets/master/_listings/microsoft-graph/apis.yaml
 specificationVersion: "0.14"
 apis:
 - name: Microsoft Graph API
@@ -32,7 +32,7 @@ apis:
   tags: Worksheets
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/worksheets/master/_listings/microsoft-graph/workbook-worksheets-get.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/worksheets/master/_listings/microsoft-graph/workbook-worksheets-get.md
 x-common:
 - type: x-change-loge
   url: https://developer.microsoft.com/en-us/graph/docs/overview/changelog
